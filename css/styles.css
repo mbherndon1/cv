@@ -1,159 +1,19 @@
-a {
-    color: #1363DF;
-    font-family: 'Montserrat', sans-serif;
-    margin: 10px 20px;
-    text-decoration: none;
-
-}
-
 body {
-    margin: 0px;
-    text-align: center;
-    font-family: 'Merriweather', serif;
-    color: #40514E;
-}
-
-.btn {
-  background: #3b7fb3;
-  background-image: -webkit-linear-gradient(top, #3b7fb3, #2c50ab);
-  background-image: -moz-linear-gradient(top, #3b7fb3, #2c50ab);
-  background-image: -ms-linear-gradient(top, #3b7fb3, #2c50ab);
-  background-image: -o-linear-gradient(top, #3b7fb3, #2c50ab);
-  background-image: linear-gradient(to bottom, #3b7fb3, #2c50ab);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
-  border-radius: 8px;
-  font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: #24a6de;
-  background-image: -webkit-linear-gradient(top, #24a6de, #41a0e0);
-  background-image: -moz-linear-gradient(top, #24a6de, #41a0e0);
-  background-image: -ms-linear-gradient(top, #24a6de, #41a0e0);
-  background-image: -o-linear-gradient(top, #24a6de, #41a0e0);
-  background-image: linear-gradient(to bottom, #24a6de, #41a0e0);
-  text-decoration: none;
-}
-.code-img{
-    width:25%;
-    float: left;
-    margin-right: 30px;
-}
-
-.cloud-top {
-    position: absolute;
-    right: 300px;
-    top: 40px;
-}
-
-.cloud-bottom {
-    position: absolute;
-    left: 250px;
-    bottom: 300 px;
-}
-
-.contact-message{
-    width: 40%;
-    margin: 40px auto 60px;
-}
-
-.container-middle {
-    margin: 100px 0;
-}
-
-.container-bottom {
-    padding: 50px 0 20px;
-    background-color: #47B5FF;
-}
-
-.copyright{
-    color: #EAF6F6;
-    font-size: 0.75rem;
-    padding: 20px 0;
-}
-
-.container-top {
-    background-color: #DFF6FF;
-    position: relative;
-    padding-top: 85px;
-    padding-bottom: 10px;
-}
-
-.education-row{
-    margin: 50px auto 50px auto;
-    width: 50%;
-    text-align: left;
-}
-
-.ncsu-img{
-    float:left;
-    margin-right: 30px;
-}
-
-.stanford-img{
-    float:left;
-    margin-right: 30px;
-}
-
-.duke-img{
-    float:left;
-    margin-right: 30px;
-}
-
-
-.guitar-img{
-    width:25%;
-    float:right;
-    margin-right: 30px;
-}
-
-h1{
-    font-size: 5.625rem;
-    margin: 100px auto 0 auto;
-    color: #1363DF;
-    font-family: 'Sacramento', serif;
-    line-height: 1
-}
-
-h2{
-    color: #1363DF;
-    font-family: 'Montserrat', sans-serif;
-    font-size:  2.0rem;
-    font-weight: normal;
-    padding-bottom: 10px;
-}
-
-h3{
-    color: #47B5FF;
-    font-family: 'Montserrat', serif;
+    background-color: #DBE2EF;
 }
 
 hr{
-    border: none;
-    border-top-style: dotted;
-    border-color: #EAF6F6;
-    border-width: 6px;
-    width: 4%;
-    margin: 100px auto;
+    border-style: none;
+    border-top-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    width: 100%;
 }
 
-.intro{
-    width: 50%;
-    margin: auto;
-    text-align: center;
+h1{
+color: #112D4E;
 }
 
-p{
-    line-height: 2;
-}
-
-.skill-row{
-    margin: 50px auto 50px auto;
-    width: 50%;
-    text-align: left;
+h3{
+color: #3F72AF;
 }
